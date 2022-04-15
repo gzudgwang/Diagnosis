@@ -1,1 +1,1 @@
-# Theoretical-Results-of-Asynchronous-Diagnosis-
+# Theoretical-Proof-of-Asynchronous-Diagnosis-
