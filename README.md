@@ -1,2 +1,2 @@
 # Theoretical Proof of Asynchronous Diagnosis
-The proof detail of Theorem 1.
+Proof of Theorem 1 and Proposition 1.
